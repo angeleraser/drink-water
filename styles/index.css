@@ -13,7 +13,7 @@
 body {
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   min-height: 100vh;
   min-width: 360px;
   background-color: var(--blue-3);
